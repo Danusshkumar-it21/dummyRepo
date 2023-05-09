@@ -14,3 +14,6 @@ Adding extra feature directly into main branch
 
 After rebasing main into features branch, I am adding this features directly
 into features branch.
+
+After merging experimental into main branch, This message is written
+ and commited in experimental branch
