@@ -3,3 +3,8 @@
 3. Turn off the heat and add the Maggi tastemaker masala to the pot.
 4. Mix well until the masala is evenly distributed and the noodles are coated in the seasoning.
 5. Serve hot and enjoy!
+
+
+Hello, I am adding this extra instruction to the experimental branch of this project to check whether this change
+affects the project or not. If it doesn't affect the project, I will merge the same.
+
